@@ -1,7 +1,7 @@
-#codeZ:  ç®€å•çš„ä½¿ç”¨ç›‘æ§ä¸­å¿ƒå¦‚ä¸‹æ“ä½œå³å¯
-#            1.é»‘çª—å£åˆ‡æ¢åˆ°è¯¥é¡¹ç›®ä¸‹çš„dubbo-adminç›®å½•ä¸‹ (ä¿®æ”¹src/main/webapp/WEB-INFä¸‹é¢çš„dubbo.propertiesæ–‡ä»¶,å°†ç›‘æ§åœ°å€ä¿®æ”¹ä¸ºéœ€è¦çš„åœ°å€)
-#	      2.ä½¿ç”¨mvn package -Dmaven.skip.test=true  (å½“ç„¶,å‰ææ˜¯è£…æœ‰maven)
-#	      3.éƒ¨ç½²åˆ°tomcat8ä¸Š,ç„¶åè®¿é—®åœ°å€å³å¯
+#codeZ:  ¼òµ¥µÄÊ¹ÓÃ¼à¿ØÖĞĞÄÈçÏÂ²Ù×÷¼´¿É
+#            1.ºÚ´°¿ÚÇĞ»»µ½¸ÃÏîÄ¿ÏÂµÄdubbo-adminÄ¿Â¼ÏÂ (ĞŞ¸Äsrc/main/webapp/WEB-INFÏÂÃæµÄdubbo.propertiesÎÄ¼ş,½«¼à¿ØµØÖ·ĞŞ¸ÄÎªĞèÒªµÄµØÖ·)
+#	      2.Ê¹ÓÃmvn package -Dmaven.skip.test=true  (µ±È»,Ç°ÌáÊÇ×°ÓĞmaven)
+#	      3.²¿Êğµ½tomcat8ÉÏ,È»ºó·ÃÎÊµØÖ·¼´¿É
 
 
 
