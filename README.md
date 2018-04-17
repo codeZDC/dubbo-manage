@@ -1,6 +1,6 @@
 #codeZ:  简单的使用监控中心如下操作即可
 #            1.黑窗口切换到该项目下的dubbo-admin目录下 (修改src/main/webapp/WEB-INF下面的dubbo.properties文件,将监控地址修改为需要的地址)
-#	      2.使用mvn package -Dmaven.skip.test=true  (当然,前提是装有maven)
+#	      2.项目构建,使用mvn package -Dmaven.skip.test=true  (当然,前提是装有maven)
 #	      3.部署到tomcat8上,然后访问地址即可
 
 
